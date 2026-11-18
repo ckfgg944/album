@@ -1,8 +1,8 @@
 {
   "versionCode": 5,
   "versionName": "1.4",
-  "apkUrl": "album.apk",
-  "notes": "更新说明写在这里 我要写好多好多照片",
+  "apkUrl": "https://raw.githubusercontent.com/ckfgg944/album/main/%E5%91%A8%E7%9B%BC%E7%9B%BC%E7%9A%84%E5%B0%8F%E7%9B%B8%E5%86%8C-v1.4.apk",
+  "notes": "首次开启云更新",
   "webVersion": 3,
-  "webUrl": "index.html"
+  "webUrl": "https://raw.githubusercontent.com/ckfgg944/album/main/index.html"
 }
